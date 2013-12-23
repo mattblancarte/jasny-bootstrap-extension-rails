@@ -18,7 +18,7 @@ this gem in conjucntion with [compass-twitter-bootstrap] (https://github.com/vwa
 **Add it to your Gemfile**
 
     gem 'jasny_bootstrap_extension_rails' # original version of gem
-	gem 'jasny_bootstrap_extension_rails', github: 'shipitko/jasny_bootstrap_extension_rails' # updated to jasny v3.0.1-p7
+	gem 'jasny_bootstrap_extension_rails', github: 'shipitko/jasny-bootstrap-extension-rails' # updated to jasny v3.0.1-p7
 
 **Bundle install**
 
