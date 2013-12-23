@@ -17,7 +17,8 @@ this gem in conjucntion with [compass-twitter-bootstrap] (https://github.com/vwa
 
 **Add it to your Gemfile**
 
-    gem 'jasny_bootstrap_extension_rails'
+    gem 'jasny_bootstrap_extension_rails' # original version of gem
+	gem 'jasny_bootstrap_extension_rails', github: 'shipitko/jasny_bootstrap_extension_rails' # updated to jasny v3.0.1-p7
 
 **Bundle install**
 
@@ -31,8 +32,6 @@ this gem in conjucntion with [compass-twitter-bootstrap] (https://github.com/vwa
 
     *= require jasny-bootstrap
 
-**And if you also want jasny's responsive**
-
-    *= require jasny-bootstrap-responsive
+You can also use "jasny-bootstrap.min" for compressed .js and .css
 
 
